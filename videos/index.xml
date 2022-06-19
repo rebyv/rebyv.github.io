@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Videos on RV’s site</title>
-    <link>https://rebyv.github.io/videos/</link>
-    <description>Recent content in Videos on RV’s site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rebyv.github.io/videos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2021 Petrichor international music competition</title>
-      <link>https://rebyv.github.io/videos/2021-07-10/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rebyv.github.io/videos/2021-07-10/</guid>
-      <description>G. Pierné, Konzertstück, Op.39</description>
-    </item>
-    
-    <item>
-      <title>Recital for Bachelor in Music</title>
-      <link>https://rebyv.github.io/videos/2019-10-02/</link>
-      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rebyv.github.io/videos/2019-10-02/</guid>
-      <description>This is the recording of my Bachelor of Music Recital, that I held on the second of October 2019.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Videos on Rebecca Vian’s site</title><link>https://rebyv.github.io/videos/</link><description>Recent content in Videos on Rebecca Vian’s site</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rebyv.github.io/videos/index.xml" rel="self" type="application/rss+xml"/><item><title>2021 Petrichor international music competition</title><link>https://rebyv.github.io/videos/2021-07-10/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><guid>https://rebyv.github.io/videos/2021-07-10/</guid><description>G. Pierné, Konzertstück, Op.39</description></item><item><title>Recital for Bachelor in Music</title><link>https://rebyv.github.io/videos/2019-10-02/</link><pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate><guid>https://rebyv.github.io/videos/2019-10-02/</guid><description>This is the recording of my Bachelor of Music Recital, that I held on the second of October 2019.
 Program:
-Hindemith, Harp sonata Prokofiev, Prelude in C Tournier, Feerié Britten, Suite for harp op. 83 Audio and Video editing: Natra Gabi.</description>
-    </item>
-    
-  </channel>
-</rss>
+Hindemith, Harp sonata Prokofiev, Prelude in C Tournier, Feerié Britten, Suite for harp op. 83 Audio and Video editing: Natra Gabi.</description></item></channel></rss>

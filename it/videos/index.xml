@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Sito di RV</title>
+    <link>https://rebyv.github.io/it/videos/</link>
+    <description>Recent content in Videos on Sito di RV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rebyv.github.io/it/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concorso internazionale Petrichor 2021</title>
+      <link>https://rebyv.github.io/it/videos/2021-07-10/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rebyv.github.io/it/videos/2021-07-10/</guid>
+      <description>G. Pierné, Konzertstück, Op.39</description>
+    </item>
+    
+    <item>
+      <title>Recital per la Laurea Triennale</title>
+      <link>https://rebyv.github.io/it/videos/2019-10-02/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rebyv.github.io/it/videos/2019-10-02/</guid>
+      <description>Registrazione del Recital per la Laurea Triennale.
+Programma:
+Hindemith, Harp sonata Prokofiev, Prelude in C Tournier, Feerié Britten, Suite for harp op. 83 Registrazione video e audio: Natra Gabi.</description>
+    </item>
+    
+  </channel>
+</rss>

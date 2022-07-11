@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190619T000000
+UID:58c24e55caa0320eabadcbf78ae63df3@rebeccavian.com
+ORGANIZER:mailto:webmaster@rebeccavian.com
+DTSTART:2019-06-19T21:00:00+0200
+DTEND:2019-06-19T21:00:00+0200
+STATUS:CONFIRMED
+CATEGORIES:CONCERT
+SUMMARY:Festival Art Night
+DESCRIPTION:<no value> (Info: https://www.rebeccavian.com/concerts/2019-06-19/)
+X-ALT-DESC;FMTTYPE=text/html:Festival Art Night<br>Sala 117<br>Palazzo Pisani<br>Venezia (it)<br><br><img src='http://www.mapquestapi.com/staticmap/v5/map?key=dpKDubtRLAWGGLVIaq5JgDbQ8Zw5hJHv&type=map&size=225,160&locations=45.44117,12.3246|marker-sm-50318A-1&scalebar=true&zoom=15&rand=407356647' alt="Map"><br><a href='https://www.rebeccavian.com/concerts/2019-06-19/'></a>
+LOCATION:Sala 117 — Palazzo Pisani, Venezia (it)
+GEO:45.441170;12.324600
+END:VEVENT
+END:VCALENDAR

@@ -13,8 +13,8 @@ STATUS:CONFIRMED
 CATEGORIES:CONCERT
 SUMMARY:Talent Music Festival
 DESCRIPTION:<no value> (Info: https://www.rebeccavian.com/it/concerts/2021-08-19/)
-X-ALT-DESC;FMTTYPE=text/html:Talent Music Festival<br>Salone Monumentale del Refettorio<br>Museo Diocesano<br>Brescia (it)<br><br><img src='http://www.mapquestapi.com/staticmap/v5/map?key=dpKDubtRLAWGGLVIaq5JgDbQ8Zw5hJHv&type=map&size=225,160&locations=45.49487,10.27355|marker-sm-50318A-1&scalebar=true&zoom=15&rand=1291431585' alt="Map"><br><a href='https://www.rebeccavian.com/it/concerts/2021-08-19/'></a>
+X-ALT-DESC;FMTTYPE=text/html:Talent Music Festival<br>Salone Monumentale del Refettorio<br>Museo Diocesano<br>Brescia (it)<br><br><img src='' alt="Map"><br><a href='https://www.rebeccavian.com/it/concerts/2021-08-19/'></a>
 LOCATION:Salone Monumentale del Refettorio — Museo Diocesano, Brescia (it)
-GEO:45.494870;10.273550
+GEO:
 END:VEVENT
 END:VCALENDAR

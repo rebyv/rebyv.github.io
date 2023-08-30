@@ -13,8 +13,8 @@ STATUS:CONFIRMED
 CATEGORIES:CONCERT
 SUMMARY:Talent Music Festival
 DESCRIPTION:<no value> (Info: https://www.rebeccavian.com/concerts/2020-09-03/)
-X-ALT-DESC;FMTTYPE=text/html:Talent Music Festival<br>Salone Superiore<br>Villa Vecelli Cavriani<br>Mozzecane, Verona (it)<br><br><img src='http://www.mapquestapi.com/staticmap/v5/map?key=dpKDubtRLAWGGLVIaq5JgDbQ8Zw5hJHv&type=map&size=225,160&locations=45.48379,11.05961|marker-sm-50318A-1&scalebar=true&zoom=15&rand=-649121096' alt="Map"><br><a href='https://www.rebeccavian.com/concerts/2020-09-03/'></a>
+X-ALT-DESC;FMTTYPE=text/html:Talent Music Festival<br>Salone Superiore<br>Villa Vecelli Cavriani<br>Mozzecane, Verona (it)<br><br><img src='' alt="Map"><br><a href='https://www.rebeccavian.com/concerts/2020-09-03/'></a>
 LOCATION:Salone Superiore — Villa Vecelli Cavriani, Mozzecane, Verona (it)
-GEO:45.483790;11.059610
+GEO:
 END:VEVENT
 END:VCALENDAR

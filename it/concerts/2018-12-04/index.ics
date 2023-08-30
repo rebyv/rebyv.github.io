@@ -13,8 +13,8 @@ STATUS:CONFIRMED
 CATEGORIES:CONCERT
 SUMMARY:Festival Trois concerts en trois jours
 DESCRIPTION:<no value> (Info: https://www.rebeccavian.com/it/concerts/2018-12-04/)
-X-ALT-DESC;FMTTYPE=text/html:Festival Trois concerts en trois jours<br>Sala dei Concerti<br>Palazzo Pisani<br>Venezia (it)<br><br><img src='http://www.mapquestapi.com/staticmap/v5/map?key=dpKDubtRLAWGGLVIaq5JgDbQ8Zw5hJHv&type=map&size=225,160&locations=45.44117,12.3246|marker-sm-50318A-1&scalebar=true&zoom=15&rand=407356647' alt="Map"><br><a href='https://www.rebeccavian.com/it/concerts/2018-12-04/'></a>
+X-ALT-DESC;FMTTYPE=text/html:Festival Trois concerts en trois jours<br>Sala dei Concerti<br>Palazzo Pisani<br>Venezia (it)<br><br><img src='' alt="Map"><br><a href='https://www.rebeccavian.com/it/concerts/2018-12-04/'></a>
 LOCATION:Sala dei Concerti — Palazzo Pisani, Venezia (it)
-GEO:45.441170;12.324600
+GEO:
 END:VEVENT
 END:VCALENDAR
